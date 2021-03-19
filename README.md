@@ -1,2 +1,10 @@
-# site-pizzaria
-Site de uma pizzaria desenvolvido durante o curso técnico de informática do Senac
+# Site Pizzaria
+Site de uma pizzaria desenvolvido durante o curso Técnico em Informática do Senac Americana.
+
+---------
+
+## Tecnologias
+
+-HTML
+
+-CSS
